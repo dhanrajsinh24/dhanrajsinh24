@@ -34,16 +34,30 @@ From **multiplayer games** to **AR/VR innovations**, my work bridges cutting-edg
 
 ---
 
-### ⚙️ Skills & Tools That Make a Difference
+### ⚙️ Skills & Tools
 
-- **Game Development**: Unity | Unreal | Godot  
-- **Multiplayer Games**: Photon PUN, Fusion, Bolt, Unity Netcode  
-- **AR/VR Development**: Vuforia, AR Foundation, ARKit, ARCore  
-- **Testing & Automation**: CI/CD, unit, integration, and performance testing  
-- **Backend Integration**: PlayFab, AWS, Firebase  
-- **Blockchain Integration**: NFTs, virtual wallets, smart contracts  
-- **Design Tools**: Photoshop, Illustrator, Figma  
-- **Data Science & Machine Learning**: Python, TensorFlow, PyTorch  
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333?style=flat&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-333?style=flat&logo=godot-engine&logoColor=white)
+
+#### Game Engines
+![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/-Unreal%20Engine-333?style=flat&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
+
+#### AR/VR Development
+![Vuforia](https://img.shields.io/badge/-Vuforia-333?style=flat&logo=vuforia)
+![ARCore](https://img.shields.io/badge/-ARCore-333?style=flat&logo=arcore)
+![ARKit](https://img.shields.io/badge/-ARKit-333?style=flat&logo=apple)
+
+#### Dev Tools
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-333?style=flat&logo=jira)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -65,4 +79,16 @@ Let’s discuss how my experience and innovative approach can bring your project
 
 ### 🛠️ Additional Skills
 
-AWS | MongoDB | MySQL | Unity URP | HDRP | REST APIs | Git | GitHub | Android | iOS | Swift | Oculus SDK | Google Cloud | Unreal Engine Blueprints | NoSQL | SQLite | Blender | Selenium | Web Automation | ML-Agents Toolkit | Metamask | Solana | Algorand
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![Blockchain](https://img.shields.io/badge/-Blockchain-333?style=flat&logo=ethereum)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=tensorflow)
+![ARKit](https://img.shields.io/badge/-ARKit-333?style=flat&logo=apple)
+![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender&logoColor=orange)
+
+---
+
+<!-- Social links with icons -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drgohil24/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/dhanrajsinh24/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=world&logoColor=white)](https://www.gohilgames.com/)
