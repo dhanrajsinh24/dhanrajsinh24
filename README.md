@@ -39,9 +39,8 @@ From **multiplayer games** to **AR/VR innovations**, my work bridges cutting-edg
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333?style=flat&logo=unreal-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-333?style=flat&logo=godot-engine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 #### Game Engines
 ![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity&logoColor=white)
@@ -83,7 +82,6 @@ Let’s discuss how my experience and innovative approach can bring your project
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333?style=flat&logo=ethereum)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=tensorflow)
-![ARKit](https://img.shields.io/badge/-ARKit-333?style=flat&logo=apple)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender&logoColor=orange)
 
 ---
