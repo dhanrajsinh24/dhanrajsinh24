@@ -23,13 +23,6 @@ From **multiplayer games** to **AR/VR innovations**, my work bridges cutting-edg
 
 ---
 
-### 🏆 Recent Triumphs
-- 💰 **VR Training Simulator**: Helped a client secure a major contract by developing a cutting-edge VR training experience
-- 💰 **Multiplayer AR Game**: Designed and built an AR game with blockchain integration, attracting significant client investment
-- 💰 **AI-Powered Virtual Try-On**: Integrated machine learning models, boosting user engagement by 25% with seamless virtual try-on features
-
----
-
 ### ⚙️ Skills & Tools
 #### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
@@ -81,7 +74,6 @@ Let’s discuss how my experience and innovative approach can bring your project
 
 ---
 
-<!-- Social links with icons -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drgohil24/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/dhanrajsinh24/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=world&logoColor=white)](https://www.gohilgames.com/)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0138d000a410e860b4)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=world&logoColor=white)](https://dangohil.online/)
