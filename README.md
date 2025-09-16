@@ -73,7 +73,3 @@ Let’s discuss how my experience and innovative approach can bring your project
 ![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender&logoColor=orange)
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drgohil24/)
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0138d000a410e860b4)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=world&logoColor=white)](https://dangohil.online/)
