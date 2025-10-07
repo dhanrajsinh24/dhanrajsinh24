@@ -27,22 +27,6 @@
 
 ---
 
-### 💼 Industry-Leading Standards for SUCCESS
-
-- **Experience with every stage of game development** — from idea to release  
-- **Strong project management skills** using Agile methods  
-- **Performance Optimization & Problem Solving** expertise  
-- **Unique Triple H Personality!** - Honest, Hardworking, Humble  
-
----
-
-### Ready to Transform Your Idea into Reality?
-
-Let’s discuss how my experience and innovative approach can bring your project to life!  
-📞 **Reach out today**, and let’s unlock the full potential of your vision together.
-
----
-
 ### 🛠️ Additional Skills
 
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
