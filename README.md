@@ -1,25 +1,4 @@
-# 👋 Hi there! I'm Dan - Top-Rated Game Developer & AR/VR Expert
-🏅 **10 Years of Premium Development Experience** | **50+ Successful Projects Delivered**  
-🏅 **Scalable, Maintainable, and Optimized Solutions for Top-Quality Results**  
-🏅 **Your Trusted Partner for Multiplayer, Physics-Based, and Immersive AR/VR Games**  
-🏅 **Unity 2D/3D, Unreal Engine C++ & Blueprints | Complex Game Mechanics**  
-
----
-
-### 🚀 Proven Results That Deliver
-> _"Dan is the best! He is a top-level expert coder with excellent communication skills and a strong work ethic. I've always found Dan to strive for customer satisfaction and a job well done. Looking forward to continuing to work with him on a variety of projects."_
-
-🎮 **Expert-Vetted, Top-Rated Plus Game Developer** with a decade of experience delivering high-quality, high-performance solutions. My commitment to excellence has transformed complex game and AR/VR projects into impactful experiences, combining strategic innovation and technical expertise to drive industry-leading results.
-
----
-
-### 📈 Customized, Scalable Game Solutions
-Every project is approached with a tailored strategy to ensure:
-- **Scalability** - for growth
-- **Smooth Integration** - for seamless experience
-- **Long-term Adaptability** - for lasting impact
-
-From **multiplayer games** to **AR/VR innovations**, my work bridges cutting-edge technology with industry-specific solutions for sustained growth.
+# 👋 Hi there! I'm Dan (Multiplayer and AR/VR Expert)
 
 ---
 
